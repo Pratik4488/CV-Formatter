@@ -1,0 +1,83 @@
+{
+    "name": "Ram Kumar ",
+    "Address": "G/14, Sunset Heights 53 Juhu Tara Road Mumbai -40049 Maharashtra  ",
+    "AboutMe": {
+        "About": "Marketing and Sales Professional : Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapi-bus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. ",
+        "Education": {
+            "degree1": {
+                "Name": "Masters",
+                "Specialisation": "Business Administration",
+                "GraduationDate": "Graduated, July 2010",
+                "University": "Symbiosis Institute of Management Studies",
+                "Marks": "59%",
+                "Board": "AICTE & UGC Board",
+                "location": "Pune, Maharashtra "
+            },
+            "degree2": {
+                "Name": "Bachelor",
+                "Specialisation": "Technology",
+                "GraduationDate": "Graduated, July 2008",
+                "University": "Deccan College of Engineering & Technology",
+                "Marks": "64%",
+                "Board": "Osmania University Board",
+                "location": "Hyderabad, Telangana "
+            },
+            "degree3": {
+                "Name": "10+2",
+                "Specialisation": "",
+                "GraduationDate": "Graduated, July 2004",
+                "University": "DPS Bokaro",
+                "Marks": "81%",
+                "Board": "CBSE Board",
+                "location": "New Delhi, Delhi "
+            }
+        },
+        "ProfessionalQualification": [
+            "• Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit. ",
+            "• Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit. ",
+            "• Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit. ",
+            "• Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit. "
+        ]
+    },
+    "Skills": [
+        "• Lorem ipsum ",
+        "• Ipsum dolor ",
+        "• Nulla quis sem ",
+        "• Lorem ipsum ",
+        "• Integer nec odio "
+    ],
+    "WorkExperience": [
+        {
+            "Date": "April 2014 – Current ",
+            "Post": "Sales Manager ",
+            "Company": "Solvent Solutions Pvt Ltd  Kolkata, West Bangal ",
+            "Desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. • Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit. • Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit. • Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit. • Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit. "
+        },
+        {
+            "Date": "October 2011 – March 2014 ",
+            "Post": "Team Leader ",
+            "Company": "Serena Global Pvt Ltd  Gurgaon, Delhi-NCR ",
+            "Desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. • Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit. • Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit. • Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit. • Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit. "
+        },
+        {
+            "Date": "August 2009 – October 2011 ",
+            "Post": "Sales Assistant ",
+            "Company": "Tamcoj Technologies  Pimpri-Pune, Maharashtra ",
+            "Desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. • Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit. • Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit. • Lorem ipsum dolor sit amet, consectetuer adipiscing elit lorem ipsum dolor sit. "
+        }
+    ],
+    "Computer_Proficiency": [
+        "• Word 2010    ",
+        "• Excel 2010 ",
+        "• Power Point 2010 "
+    ],
+    "Languages": [
+        "• Hindi   ",
+        "• English "
+    ],
+    "PersonalInterest": [
+        "• Lorem ipsum dolor sit amet • Lorem ipsum dolor sit ",
+        "• Lorem ipsum dolor • Lorem ipsum ",
+        "• Lorem ipsum dolor sit "
+    ]
+}
